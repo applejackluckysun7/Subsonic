@@ -226,4 +226,4 @@ Subsonic is available as a full free version, including all features and updates
 Don't miss out on the opportunity to explore your music like never before. **Download Subsonic free today and elevate your audio experience!**
 
 ---
-**Last updated:** 2026-09-18 05:21:56 UTC
+**Last updated:** 2026-09-18 10:10:42 UTC
